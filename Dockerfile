@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.11
 ENV PYTHONUNBUFFERED=1
 #RUN apt-get update && apt install gcc -y && apt-get install build-essential -y && apt-get install python3-dev -y
 RUN mkdir /code
