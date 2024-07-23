@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-h5n-2ebm8h^-+$(61)ys!#7huohz0o2uut+sevg%j$qo4x24*3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://universitysystemapi.jakefarrell.ie", "127.0.0.1"]
+ALLOWED_HOSTS = ["universitysystemapi.jakefarrell.ie", "universitysystem.jakefarrell.ie", "127.0.0.1"]
 
 
 # Application definition
